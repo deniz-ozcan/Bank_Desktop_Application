@@ -1,0 +1,69 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>assets/images/background.jpg</file>
+    <file>assets/images/background.png</file>
+    <file>assets/images/ss.png</file>
+    <file>assets/moneys/AUD.png</file>
+    <file>assets/moneys/BGN.png</file>
+    <file>assets/moneys/CAD.png</file>
+    <file>assets/moneys/CHF.png</file>
+    <file>assets/moneys/CNY.png</file>
+    <file>assets/moneys/CZK.png</file>
+    <file>assets/moneys/DKK.png</file>
+    <file>assets/moneys/EUR.png</file>
+    <file>assets/moneys/GBP.png</file>
+    <file>assets/moneys/HUF.png</file>
+    <file>assets/moneys/INR.png</file>
+    <file>assets/moneys/JPY.png</file>
+    <file>assets/moneys/KRW.png</file>
+    <file>assets/moneys/KWD.png</file>
+    <file>assets/moneys/PLN.png</file>
+    <file>assets/moneys/QAR.png</file>
+    <file>assets/moneys/RUB.png</file>
+    <file>assets/moneys/TRY.png</file>
+    <file>assets/moneys/USD.png</file>
+    <file>assets/icons/1053210.png</file>
+    <file>assets/icons/account.png</file>
+    <file>assets/icons/b1.png</file>
+    <file>assets/icons/b2.png</file>
+    <file>assets/icons/Brand.png</file>
+    <file>assets/icons/brandico.png</file>
+    <file>assets/icons/caret-circle-down .png</file>
+    <file>assets/icons/caret-circle-up.png</file>
+    <file>assets/icons/circle-arrow-left.png</file>
+    <file>assets/icons/circle-arrow-right.png</file>
+    <file>assets/icons/credit.png</file>
+    <file>assets/icons/currency.png</file>
+    <file>assets/icons/customer.png</file>
+    <file>assets/icons/customer2.png</file>
+    <file>assets/icons/dalg.png</file>
+    <file>assets/icons/deadlock.png</file>
+    <file>assets/icons/expense.png</file>
+    <file>assets/icons/eye.svg</file>
+    <file>assets/icons/eye-slash.svg</file>
+    <file>assets/icons/face.png</file>
+    <file>assets/icons/foreign.png</file>
+    <file>assets/icons/goldkey.png</file>
+    <file>assets/icons/incomdene.png</file>
+    <file>assets/icons/ins.png</file>
+    <file>assets/icons/lamp1.png</file>
+    <file>assets/icons/lamp2.png</file>
+    <file>assets/icons/manager.png</file>
+    <file>assets/icons/managerprof.png</file>
+    <file>assets/icons/nounique.png</file>
+    <file>assets/icons/profit.png</file>
+    <file>assets/icons/Purple (1).png</file>
+    <file>assets/icons/Purple (2).png</file>
+    <file>assets/icons/Purple (5).png</file>
+    <file>assets/icons/repres.png</file>
+    <file>assets/icons/search.png</file>
+    <file>assets/icons/statements.png</file>
+    <file>assets/icons/statements_2.png</file>
+    <file>assets/icons/table.png</file>
+    <file>assets/icons/total.png</file>
+    <file>assets/icons/tw.png</file>
+    <file>assets/icons/unique.png</file>
+    <file>assets/icons/userprof.png</file>
+    <file>assets/icons/wp.png</file>
+  </qresource>
+</RCC>

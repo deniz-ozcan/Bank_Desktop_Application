@@ -1,0 +1,60 @@
+mysql.connector connect 
+mysql.connector Error
+random randint
+bs4 BeautifulSoup
+lxml.etree HTML
+requests get
+sys exit, argv
+time sleep
+numpy_financial pmt
+datetime datetime
+dateutil.relativedelta relativedelta
+PyQt5.QtWidgets (
+    QLineEdit,
+    QTableWidgetItem,
+    QApplication,
+    QWidget,
+    QMainWindow,
+    QMessageBox,
+    QGraphicsDropShadowEffect,
+    QGraphicsOpacityEffect,
+    QSizePolicy,
+    QHBoxLayout,
+    QVBoxLayout,
+    QLabel,
+    QPushButton,
+    QFrame,
+    QGridLayout,
+    QComboBox,
+    QTableWidget,
+    QAbstractScrollArea,
+    QAbstractItemView,
+    QSpacerItem,
+    QTextEdit,
+    QLayout,
+    QDateEdit,
+    QAbstractSpinBox,
+    QDateTimeEdit,
+)
+
+PyQt5.QtGui (
+    QRegExpValidator,
+    QPixmap,
+    QIcon,
+    QColor,
+    QDesktopServices,
+    QFont,
+)
+PyQt5.QtCore (
+    QRegExp,
+    QPropertyAnimation,
+    Qt,
+    QEasingCurve,
+    QThread,
+    pyqtSignal,
+    QUrl,
+    QSize,
+    QCoreApplication,
+    QMetaObject,
+    QRect,
+)
